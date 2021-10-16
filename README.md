@@ -26,9 +26,9 @@ It allows customer to view available burger options and place order
      <td>Account Screen</td>
   </tr>
   <tr>
-    <td style="background-color:#C8161D"><img width="100%" src="https://raw.githubusercontent.com/Sagarpoudel122/burger_app/main/demo/home_screen.jiff"/></td>
-    <td style="background-color:#C8161D"><img width="100%" src="https://raw.githubusercontent.com/Sagarpoudel122/burger_app/main/demo/product_detail_screen.jiff"/></td>
-    <td style="background-color:#C8161D"><img width="100%" src="https://raw.githubusercontent.com/Sagarpoudel122/burger_app/main/demo/account_screen.jiff"/></td>
+    <td style="background-color:#C8161D"><img width="100%" src="https://raw.githubusercontent.com/Sagarpoudel122/burger_app/main/demo/home_screen.jfif"/></td>
+    <td style="background-color:#C8161D"><img width="100%" src="https://raw.githubusercontent.com/Sagarpoudel122/burger_app/main/demo/product_detail_screen.jfif"/></td>
+    <td style="background-color:#C8161D"><img width="100%" src="https://raw.githubusercontent.com/Sagarpoudel122/burger_app/main/demo/account_screen.jfif"/></td>
   </tr>
  </table>
 

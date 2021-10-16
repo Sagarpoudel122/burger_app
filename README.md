@@ -29,8 +29,9 @@ https://www.figma.com/file/RqhG3mhqLEk4GJPDUc8qVJ/Burger-(Copy)?node-id=0%3A1
 
 ## Upcomming Features 🏷️🏷️
 <ol>
-  <li>Product Cart using Bloc</li>
+  <li>Product Cart using Bloc pattern along side Faker</li>
   <li>Clean Bloc Architecture for HTTP handling</li>
+  <li>Test Driven Development(TDD) for Cart System</li>
   <li>Fully Functional Application with features like Cart,Review,Order Place</li>
 </ol>
 

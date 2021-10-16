@@ -1,7 +1,21 @@
-# Burger App
+# Burger App🍔🍔
 
 A Flutter project that can be handy for burger joints.
 It allows customer to view available burger options and place order
+
+## Current Features 🏷️🏷️
+<ol>
+  <li>Bloc implementaion of Bottom Navigation Bar</li>
+  <li>Beautiful Designs</li>
+</ol>
+
+
+## Upcomming Features 🏷️🏷️
+<ol>
+  <li>Product Cart using Bloc</li>
+  <li>Clean Bloc Architecture for HTTP handling</li>
+  <li>Fully Functional Application with features like Cart,Review,Order Place</li>
+</ol>
 
 
 ## Screenshots 📱📱
@@ -12,9 +26,9 @@ It allows customer to view available burger options and place order
      <td>Account Screen</td>
   </tr>
   <tr>
-    <td><img width="100%" src="https://raw.githubusercontent.com/Sagarpoudel122/burger_app/main/demo/245526037_568107464305629_3806542274705439459_n.jpg"/></td>
-    <td><img width="100%" src="https://raw.githubusercontent.com/Sagarpoudel122/burger_app/main/demo/245526037_568107464305629_3806542274705439459_n.jpg"/></td>
-    <td><img width="100%" src="https://raw.githubusercontent.com/Sagarpoudel122/burger_app/main/demo/245526037_568107464305629_3806542274705439459_n.jpg"/></td>
+    <td style="background-color:#C8161D"><img width="100%" src="https://raw.githubusercontent.com/Sagarpoudel122/burger_app/main/demo/home_screen.jpg"/></td>
+    <td style="background-color:#C8161D"><img width="100%" src="https://raw.githubusercontent.com/Sagarpoudel122/burger_app/main/demo/product_detail_screen.jpg"/></td>
+    <td style="background-color:#C8161D"><img width="100%" src="https://raw.githubusercontent.com/Sagarpoudel122/burger_app/main/demo/account_screen.jpg"/></td>
   </tr>
  </table>
 

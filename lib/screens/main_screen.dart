@@ -5,6 +5,7 @@ import 'package:burger_app/common/util/color_utils.dart';
 import 'package:burger_app/common/widget/bottom_navigation_widget.dart';
 import 'package:burger_app/screens/account_screen.dart';
 import 'package:burger_app/screens/cart_screen.dart';
+import 'package:burger_app/screens/favourite_screen.dart';
 import 'package:burger_app/screens/home_screen.dart';
 import 'package:burger_app/screens/more_screen.dart';
 import 'package:flutter/material.dart';
@@ -86,7 +87,7 @@ class _MainPageState extends State<MainPage> with TickerProviderStateMixin {
                   case 0:
                     return HomeScreen();
                   case 1:
-                    return CartScreen();
+                    return FavouriteScreen();
                   case 2:
                     return AccountScreen();
                   case 3:

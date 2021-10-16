@@ -4,7 +4,7 @@ A Flutter project that can be handy for burger joints.
 It allows customer to view available burger options and place order
 
 
-## Screenshots
+## Screenshots 📱📱
 <table>
   <tr>
     <td>Homescreen</td>

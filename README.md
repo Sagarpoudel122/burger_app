@@ -1,4 +1,4 @@
-# Burger App
+# Burger App🍔🍔
 
 A Flutter project that can be handy for burger joints.
 It allows customer to view available burger options and place order

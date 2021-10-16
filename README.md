@@ -3,6 +3,20 @@
 A Flutter project that can be handy for burger joints.
 It allows customer to view available burger options and place order
 
+## Current Features 🏷️🏷️
+<ol>
+  <li>Bloc implementaion of Bottom Navigation Bar</li>
+  <li>Beautiful Designs</li>
+</ol>
+
+
+## Upcomming Features 🏷️🏷️
+<ol>
+  <li>Product Cart using Bloc</li>
+  <li>Clean Bloc Architecture for HTTP handling</li>
+  <li>Fully Functional Application with features like Cart,Review,Order Place</li>
+</ol>
+
 
 ## Screenshots 📱📱
 <table>

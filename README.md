@@ -3,6 +3,9 @@
 A Flutter project that can be handy for burger joints.
 It allows customer to view available burger options and place order
 
+## Inspired By 💡💡
+https://www.figma.com/file/RqhG3mhqLEk4GJPDUc8qVJ/Burger-(Copy)?node-id=0%3A1
+
 ## Screenshots 📱📱
 <table>
   <tr>
